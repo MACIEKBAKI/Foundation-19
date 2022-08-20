@@ -54,9 +54,10 @@ return;\
 #define SS_INIT_INPUT            99
 #define SS_INIT_GARBAGE          95
 #define SS_INIT_DBCORE           90
-#define SS_INIT_CHEMISTRY        18
-#define SS_INIT_MATERIALS        17
-#define SS_INIT_PLANTS           16
+#define SS_INIT_CHEMISTRY        19
+#define SS_INIT_MATERIALS        18
+#define SS_INIT_PLANTS           17
+#define SS_INIT_TASK_FORCE		 16
 #define SS_INIT_ANTAGS           15
 #define SS_INIT_CULTURE          14
 #define SS_INIT_MISC             13
